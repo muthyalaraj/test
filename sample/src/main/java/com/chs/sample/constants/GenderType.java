@@ -6,7 +6,8 @@ public enum GenderType {
 	private String code;
 	
 	
-	public String getCode() {
+	public String getCode() 
+	{
 		return this.code;
 	}
 
