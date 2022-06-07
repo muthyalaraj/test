@@ -25,6 +25,14 @@ public class Processor implements ItemProcessor<Customer, Customer> {
        // customer.setTime(new Date());
        // System.out.println(String.format("Converted from [%s] to [%s]", deptCode, dept));
     	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
 		/*
 		 * String testId=customer.getTitle(); if(testId.isEmpty()) {
 		 * System.out.println("Title empty");
