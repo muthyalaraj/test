@@ -1,0 +1,1 @@
+package com.chs.sample.message;

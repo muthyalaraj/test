@@ -1,0 +1,7 @@
+id,title,firstName,middleName,lastName,gender,emailId,mobileNumber,pan,aadhaar
+1,mr,raju,chinni,kumar,MALE,mraj@gmail.com,9908435300,ccppi7835n,123654789987
+2,mr,eswar,kumar,alu,MALE,eswar@gmail.com,9908405300,ccppi6335o,123654789989
+3,mr,nani,varma,kumar,MALE,nani@gmail.com,9908435300,ccppi9835n,153654789956
+4,mr,surseh,chinni,kumar,MALE,suresh@gmail.com,9908435300,ccppi8735n,163654789587
+5,mr,konda,chinni,kumar,MALE,konda@gmail.com,9908655300,ccppt8735n,653654789587
+6,mr,sathish,chinni,kumar,MALE,sat@gmail.com,9908475400,5n,3654789587
